@@ -1,0 +1,31 @@
+.card {
+    width: 32%;
+    float:left;
+    margin: 5px;
+}
+section {
+    padding-top: 4rem;
+    padding-top: 4rem;
+}
+
+input, textarea {
+    margin-bottom: 1rem;
+}
+
+header {
+    background: rgb(101, 95, 131);
+    color: white;
+}
+
+.nav-link {
+    color: #ccc;
+}
+
+ h2, h3, h4, h5, h6 {
+    color:  rgb(101, 95, 131);
+}
+
+.btn-01 {
+    background-color:  rgb(101, 95, 131);
+    color: white;
+}
